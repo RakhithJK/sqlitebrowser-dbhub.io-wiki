@@ -1,5 +1,9 @@
 Welcome to the dbhub.io wiki!
 
+### For users
+
+* [go-dbhub](https://github.com/sqlitebrowser/go-dbhub) - Go library for working with your uploaded databases (**in development**)
+
 ### For developers
 
 * [Local development setup](https://github.com/sqlitebrowser/dbhub.io/wiki/Local-development-setup) - How to get the server running locally, for development purposes
